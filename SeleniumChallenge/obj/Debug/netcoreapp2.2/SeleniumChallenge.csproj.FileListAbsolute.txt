@@ -1,0 +1,8 @@
+C:\Users\agorchakov\source\repos\SeleniumChallenge\SeleniumChallenge\obj\Debug\netcoreapp2.2\SeleniumChallenge.csprojAssemblyReference.cache
+C:\Users\agorchakov\source\repos\SeleniumChallenge\SeleniumChallenge\obj\Debug\netcoreapp2.2\SeleniumChallenge.AssemblyInfoInputs.cache
+C:\Users\agorchakov\source\repos\SeleniumChallenge\SeleniumChallenge\obj\Debug\netcoreapp2.2\SeleniumChallenge.AssemblyInfo.cs
+C:\Users\agorchakov\source\repos\SeleniumChallenge\SeleniumChallenge\obj\Debug\netcoreapp2.2\SeleniumChallenge.csproj.CoreCompileInputs.cache
+C:\Users\agorchakov\Desktop\selenium\alexg-selenium-challenge\SeleniumChallenge\obj\Debug\netcoreapp2.2\SeleniumChallenge.csprojAssemblyReference.cache
+C:\Users\agorchakov\Desktop\selenium\alexg-selenium-challenge\SeleniumChallenge\obj\Debug\netcoreapp2.2\SeleniumChallenge.AssemblyInfoInputs.cache
+C:\Users\agorchakov\Desktop\selenium\alexg-selenium-challenge\SeleniumChallenge\obj\Debug\netcoreapp2.2\SeleniumChallenge.AssemblyInfo.cs
+C:\Users\agorchakov\Desktop\selenium\alexg-selenium-challenge\SeleniumChallenge\obj\Debug\netcoreapp2.2\SeleniumChallenge.csproj.CoreCompileInputs.cache

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumChallenge", "SeleniumChallenge\SeleniumChallenge.csproj", "{1BD2B5EC-C045-4345-AF37-2358AAC47B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CHROME|Any CPU = CHROME|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		FIREFOX|Any CPU = FIREFOX|Any CPU
+		IE|Any CPU = IE|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD2B5EC-C045-4345-AF37-2358AAC47B6E}.CHROME|Any CPU.ActiveCfg = CHROME|Any CPU
+		{1BD2B5EC-C045-4345-AF37-2358AAC47B6E}.CHROME|Any CPU.Build.0 = CHROME|Any CPU
+		{1BD2B5EC-C045-4345-AF37-2358AAC47B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD2B5EC-C045-4345-AF37-2358AAC47B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD2B5EC-C045-4345-AF37-2358AAC47B6E}.FIREFOX|Any CPU.ActiveCfg = FIREFOX|Any CPU
+		{1BD2B5EC-C045-4345-AF37-2358AAC47B6E}.FIREFOX|Any CPU.Build.0 = FIREFOX|Any CPU
+		{1BD2B5EC-C045-4345-AF37-2358AAC47B6E}.IE|Any CPU.ActiveCfg = IE|Any CPU
+		{1BD2B5EC-C045-4345-AF37-2358AAC47B6E}.IE|Any CPU.Build.0 = IE|Any CPU
+		{1BD2B5EC-C045-4345-AF37-2358AAC47B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD2B5EC-C045-4345-AF37-2358AAC47B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8AAB721-1E9A-4577-9FF9-041830ECBD9B}
+	EndGlobalSection
+EndGlobal
